@@ -8,7 +8,7 @@
 5.  天天加速([jd_speed.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_speed.js))
 6.  摇钱树([jd_moneyTree.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_moneyTree.js))
 6.  宠汪汪([jd_joy.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy.js))
-7.  宠汪汪偷好友狗粮与积分([jd_joy_steal.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_steal.js))
+7.  宠汪汪偷好友狗粮与积分([jd_joy_steal.js1](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_steal.js))
 8.  宠汪汪单独喂食([jd_joy_feedPets.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_feedPets.js))
 9.  宠汪汪兑换奖品([jd_joy_reward.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_reward.js))
 10.  宠汪汪强制为好友助力(刷好友)([jd_joy_help.js](https://raw.githubusercontent.com/lxk0301/scripts/master/jd_joy_help.js))
